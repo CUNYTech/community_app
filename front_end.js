@@ -9,13 +9,14 @@ var Register = require('./components/Register');
 var Congrats = require('./components/Congrats');
 var Login = require('./components/Login');
 var Main = require ('./components/Main');
+var Question = require('./components/Question');
 
 class Community extends Component {
   render() {
     return (
       <Navigator
         initialRoute= {{
-          id:'Login'
+          id:'Question'
         }}
         renderScene={
           this.navigatorRenderScene
@@ -42,6 +43,9 @@ class Community extends Component {
 
       case 'Profile':
         return(<Profile navigator ={navigator} title ="Profile" />);
+
+      case 'Question':
+        return(<Question navigator ={navigator} title ="Question" />);
 
     }
 
