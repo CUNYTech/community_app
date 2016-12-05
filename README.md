@@ -2,9 +2,16 @@
 ###(A React-native project)
 
 ###Back-End
+  function
+  --------
+  objects to be passed in JSON
   register | login | addQuestion
   ---------|-------|------------
-  "username", "password" , "email" | "username", "password" | "username", "question", "optionA", "optionB"
+  username, password , email | username, password | username, question, optionA, optionB
+
+  vote
+  ----
+  username, LorR
 
 
 ###Front-End
