@@ -5,6 +5,7 @@
   function
   --------
   objects to be passed in JSON
+
   register | login | addQuestion
   ---------|-------|------------
   username, password , email | username, password | username, question, optionA, optionB
