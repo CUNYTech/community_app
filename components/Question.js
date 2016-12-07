@@ -65,7 +65,7 @@ class Question extends Component {
       // Serialize and post the data
       console.log(data);
       const json = JSON.stringify(data);
-      fetch('http://localhost:3000/addQuestion', {
+      fetch('http://35.160.57.103:8000/addQuestion', {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
@@ -98,9 +98,7 @@ render(){
   ];
 
   function setSelectedOption(selectedOption){
-      this.setState({
-      selectedOption
-      });
+    this.setState({ selectedOption });
   }
 
   function renderOption(option, selected, onSelect, index){

@@ -78,7 +78,7 @@ class Login extends Component {
       // Serialize and post the data
       console.log(data);
       const json = JSON.stringify(data);
-      fetch('http://localhost:3000/login', {
+      fetch('http://35.160.57.103:8000/login', {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
@@ -104,43 +104,43 @@ class Login extends Component {
     }
   }
 
-render(){
-  return (
-    <Image source= {background}>
-      <View style={styles.container}>
-        <View style={styles.imageContainer}>
-          <Image source={question} style={styles.q}>
-          </Image>
-        </View>
-
-        <View style={styles.formContainer}>
-          <Form style
-            ref='form'
-            type={newUser}
-            options={options}
-            value={this.state.value}
-            onChange={this._onChange}
-          />
-        </View>
-          <TouchableOpacity onPress={this._handleAdd}>
-            <Text style={[styles.button, styles.brownButton]}>Sign In</Text>
-            </TouchableOpacity>
-
-            <View style={styles.registerContainer}>
-            <TouchableOpacity onPress={this.onButtonPress2.bind(this)} style={styles.registerContainer}>
-            <Text style={{fontSize: 15}}>
-            New User? Click here to register!
-            </Text>
-            </TouchableOpacity>
-            </View>
-
-            <View style={styles.imageContainer}>
-            </View>
-
+  render(){
+    return (
+      <Image source= {background}>
+        <View style={styles.container}>
+          <View style={styles.imageContainer}>
+            <Image source={question} style={styles.q}>
+            </Image>
           </View>
-      </Image>
-    )
-  }
+
+          <View style={styles.formContainer}>
+            <Form style
+              ref='form'
+              type={newUser}
+              options={options}
+              value={this.state.value}
+              onChange={this._onChange}
+            />
+          </View>
+            <TouchableOpacity onPress={this._handleAdd}>
+              <Text style={[styles.button, styles.brownButton]}>Sign In</Text>
+              </TouchableOpacity>
+
+              <View style={styles.registerContainer}>
+              <TouchableOpacity onPress={this.onButtonPress2.bind(this)} style={styles.registerContainer}>
+              <Text style={{fontSize: 15}}>
+              New User? Click here to register!
+              </Text>
+              </TouchableOpacity>
+              </View>
+
+              <View style={styles.imageContainer}>
+              </View>
+
+            </View>
+        </Image>
+      )
+    }
 }
 
 const styles = StyleSheet.create({

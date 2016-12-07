@@ -18,11 +18,11 @@ const avatar = require('../Images/avatar_fox.png');
 class Main extends Component {
   onButtonPress(){
     this.props.navigator.push({
-      id:'404 User Not Found'
+      id:'Question'
     });
   }
 
-  render() {
+  render(){
     return (
       <View style ={styles.container}>
 

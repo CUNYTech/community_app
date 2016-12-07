@@ -40,7 +40,7 @@ User.findOne({ "username" : req.body.username }, function(err, test){
     //"category" : JSON.parse(JSON.stringify(req.body.category).replace(/"\s+|\s+"/g,'"')),
     "status" : "Open",
     "optionA" : req.body.OptionA,
-    "optionB" : req.body.OptionB
+    "optionB" : req.body.OptionB,
   });
 
   newq.save(function(err){
@@ -54,15 +54,31 @@ User.findOne({ "username" : req.body.username }, function(err, test){
 });
 }
 
-
 function deleteQuestion(req, res){
   res.render('index', { title: 'FUTURE DELETE QUESTION '});
   console.log('Delete question...nothing here yet');
 }
 
 function viewQuestion(req, res){
-  res.render('index', { title: 'NOTHING HERE YET' });
-  console.log('View question...nothing here yet');
+  Question.find({}, function(err, Question) {
+    var questionMap = {};
+
+    Question.forEach(function(Question) {
+      questionMap[Question.id] = Question;
+    });
+
+    res.send(questionMap);
+  });
+}
+
+function viewUserQuestions(req, res) {
+  User
+    .findOne({ '_id': req.body._id })
+    .populate('questions')
+    .exec(function (err, User){
+      if(err) return handleError(err);
+    });
+    res.send(User.questions);
 }
 
 

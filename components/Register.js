@@ -89,7 +89,7 @@ class Register extends Component {
     // Serialize and post the data
     console.log(data);
     const json = JSON.stringify(data);
-    fetch('http://localhost:3000/register', {
+    fetch('http://35.160.57.103:8000/register', {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json',
