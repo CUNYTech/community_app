@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Image/RCTImageViewManager.m \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Image/RCTImageViewManager.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Image/RCTImageViewManager.m \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Image/RCTImageViewManager.h \
   ../../React/Views/RCTViewManager.h ../../React/Base/RCTBridgeModule.h \
   ../../React/Base/RCTDefines.h ../../React/Base/RCTConvert.h \
   ../../React/CSSLayout/CSSLayout.h ../../React/CSSLayout/CSSMacros.h \
@@ -14,9 +14,9 @@ dependencies: \
   ../../React/Base/RCTJavaScriptLoader.h \
   ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \
   ../../React/Views/UIView+React.h ../../React/Views/RCTComponent.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTURLRequestDelegate.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
   ../../React/Base/RCTImageSource.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Image/RCTImageView.h
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Image/RCTImageView.h

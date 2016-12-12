@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/CSSLayout/CSSNodeList.c \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/CSSLayout/CSSNodeList.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/CSSLayout/CSSLayout.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/CSSLayout/CSSMacros.h
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/CSSLayout/CSSNodeList.c \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/CSSLayout/CSSNodeList.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/CSSLayout/CSSLayout.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/CSSLayout/CSSMacros.h

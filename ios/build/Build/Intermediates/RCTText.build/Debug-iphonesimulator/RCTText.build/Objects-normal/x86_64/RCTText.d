@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Text/RCTText.m \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Text/RCTText.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Text/RCTShadowText.h \
   ../../React/Views/RCTShadowView.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSMacros.h ../../React/Views/RCTComponent.h \
   ../../React/Base/RCTRootView.h ../../React/Base/RCTBridge.h \

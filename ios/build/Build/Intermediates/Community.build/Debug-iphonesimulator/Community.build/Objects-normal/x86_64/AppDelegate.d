@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/ios/Community/AppDelegate.m \
-  /Users/joylam/Desktop/Community_test/ios/Community/AppDelegate.h \
+  /Users/Rachel/Documents/Github/community_app/ios/Community/AppDelegate.m \
+  /Users/Rachel/Documents/Github/community_app/ios/Community/AppDelegate.h \
   ../node_modules/react-native/React/Base/RCTBundleURLProvider.h \
   ../node_modules/react-native/React/Base/RCTRootView.h \
   ../node_modules/react-native/React/Base/RCTBridge.h \

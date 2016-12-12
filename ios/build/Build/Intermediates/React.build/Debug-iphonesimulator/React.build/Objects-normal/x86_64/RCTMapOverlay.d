@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTMapOverlay.m \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTMapOverlay.h
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTMapOverlay.m \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTMapOverlay.h

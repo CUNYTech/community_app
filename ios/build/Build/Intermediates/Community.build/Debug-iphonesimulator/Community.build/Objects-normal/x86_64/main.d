@@ -1,2 +1,3 @@
-dependencies: /Users/joylam/Desktop/Community_test/ios/Community/main.m \
-  /Users/joylam/Desktop/Community_test/ios/Community/AppDelegate.h
+dependencies: \
+  /Users/Rachel/Documents/Github/community_app/ios/Community/main.m \
+  /Users/Rachel/Documents/Github/community_app/ios/Community/AppDelegate.h

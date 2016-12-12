@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.m \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.m \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Text/RCTTextSelection.m \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Text/RCTTextSelection.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Text/RCTTextSelection.m \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Text/RCTTextSelection.h \
   ../../React/Base/RCTConvert.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSMacros.h ../../React/Views/RCTAnimationType.h \
   ../../React/Views/RCTBorderStyle.h \

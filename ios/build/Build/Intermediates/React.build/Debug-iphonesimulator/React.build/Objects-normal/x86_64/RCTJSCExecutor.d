@@ -1,24 +1,24 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Modules/RCTDevMenu.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Modules/RCTRedBox.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Modules/RCTSourceCode.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Executors/RCTJSCWrapper.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Executors/RCTJSCWrapper.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h
