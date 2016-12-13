@@ -10,13 +10,14 @@ var Congrats = require('./components/Congrats');
 var Login = require('./components/Login');
 var Main = require ('./components/Main');
 var Question = require('./components/Question');
+var QuestionListView = require('./components/QuestionListView');
 
 class Community extends Component {
   render() {
     return (
       <Navigator
         initialRoute= {{
-          id:'Login'
+          id:'QuestionListView'
         }}
         renderScene={
           this.navigatorRenderScene
@@ -47,6 +48,8 @@ class Community extends Component {
       case 'Question':
         return(<Question navigator ={navigator} title ="Question" />);
 
+      case 'QuestionListView':
+        return(<QuestionListView navigator ={navigator} title ="QuestionListView" />);
     }
 
   }

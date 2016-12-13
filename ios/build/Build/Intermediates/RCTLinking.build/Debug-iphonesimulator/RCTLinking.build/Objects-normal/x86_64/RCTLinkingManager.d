@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.m \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.m \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.h \
   ../../React/Modules/RCTEventEmitter.h ../../React/Base/RCTBridge.h \
   ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h \

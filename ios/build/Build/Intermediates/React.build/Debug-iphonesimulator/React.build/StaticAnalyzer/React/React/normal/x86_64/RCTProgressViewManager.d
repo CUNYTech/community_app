@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTProgressViewManager.m \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTProgressViewManager.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTViewManager.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/CSSLayout/CSSLayout.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/CSSLayout/CSSMacros.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTComponent.h
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTProgressViewManager.m \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTProgressViewManager.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/CSSLayout/CSSLayout.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/CSSLayout/CSSMacros.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTComponent.h

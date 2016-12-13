@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.m \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.m \
   ../../React/Base/RCTDefines.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.h \
   ../../React/Base/RCTWebSocketProxy.h \
   ../../React/Base/RCTWebSocketProxyDelegate.h \
   ../../React/Base/RCTConvert.h ../../React/CSSLayout/CSSLayout.h \
@@ -10,4 +10,4 @@ dependencies: \
   ../../React/Views/RCTTextDecorationLineType.h \
   ../../React/Base/RCTLog.h ../../React/Base/RCTAssert.h \
   ../../React/Views/RCTPointerEvents.h ../../React/Base/RCTUtils.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

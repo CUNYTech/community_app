@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Image/RCTImageUtils.m \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Image/RCTImageUtils.m \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
   ../../React/Base/RCTDefines.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
   ../../React/Base/RCTConvert.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSMacros.h ../../React/Views/RCTAnimationType.h \
   ../../React/Views/RCTBorderStyle.h \

@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTTabBar.m \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTTabBar.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTTabBarItem.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTView.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/RCTWrapperViewController.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/React/Views/UIView+React.h
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTView.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/Rachel/Documents/Github/community_app/node_modules/react-native/React/Views/UIView+React.h
