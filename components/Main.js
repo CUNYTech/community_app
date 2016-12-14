@@ -12,10 +12,16 @@ import {
 const food_background = require ('../Images/foodbackground.png');
 const clothing_background = require('../Images/clothing.png');
 const social_background = require('../Images/social.png');
-const mis_background = require('../Images/mis.png')
+const mis_background = require('../Images/mis.png');
 const avatar = require('../Images/avatar_fox.png');
-
+const notepad=require('../Images/notepad-icon.png');
 class Main extends Component {
+  onButtonPress3(){
+    this.props.navigator.push({
+      id:'NewsFeed'
+    });
+  }
+
   onButtonPress(){
     this.props.navigator.push({
       id:'Question'
@@ -29,14 +35,15 @@ class Main extends Component {
         <View style ={styles.header}>
 
           <TouchableOpacity onPress ={this.onButtonPress.bind(this)} >
-          <Image source={avatar} >
+          <Image source={notepad} >
           </Image>
           </TouchableOpacity>
+
         </View>
 
         <ScrollView style ={styles.categories}>
 
-          <TouchableOpacity onPress={this.onButtonPress.bind(this)} >
+          <TouchableOpacity onPress={this.onButtonPress3.bind(this)} >
           <Image source= {food_background} style = {styles.food}>
           <Text style={styles.text} >
           FOOD
@@ -44,7 +51,7 @@ class Main extends Component {
           </Image>
           </TouchableOpacity>
 
-          <TouchableOpacity onPress={this.onButtonPress.bind(this)} >
+          <TouchableOpacity onPress={this.onButtonPress3.bind(this)} >
           <Image source= {clothing_background} style = {styles.food}>
           <Text style={styles.text} >
           CLOTHING
@@ -52,7 +59,7 @@ class Main extends Component {
           </Image>
           </TouchableOpacity>
 
-          <TouchableOpacity onPress={this.onButtonPress.bind(this)} >
+          <TouchableOpacity onPress={this.onButtonPress3.bind(this)} >
           <Image source= {social_background} style = {styles.food}>
           <Text style={styles.text} >
           SOCIAL
@@ -60,15 +67,7 @@ class Main extends Component {
           </Image>
           </TouchableOpacity>
 
-          <TouchableOpacity onPress={this.onButtonPress.bind(this)} >
-          <Image source= {social_background} style = {styles.food}>
-          <Text style={styles.text} >
-          SOCIAL
-          </Text>
-          </Image>
-          </TouchableOpacity>
-
-          <TouchableOpacity onPress={this.onButtonPress.bind(this)} >
+          <TouchableOpacity onPress={this.onButtonPress3.bind(this)} >
           <Image source= {mis_background} style = {styles.food}>
           <Text style={styles.text} >
           MISCELLANEOUS
@@ -88,7 +87,10 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   header:{
-    flex:1,
+    flex:.1,
+    flexDirection:'row',
+    paddingTop: 30,
+    paddingBottom: 30,
     backgroundColor: 'burlywood',
     alignItems:'center',
     justifyContent: 'center'

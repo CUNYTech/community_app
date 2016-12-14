@@ -4,19 +4,24 @@ import {
   AppRegistry,
   Navigator
 } from 'react-native';
+import {Provider} from 'react-redux';
 
 var Register = require('./components/Register');
-var Congrats = require('./components/Congrats');
 var Login = require('./components/Login');
 var Main = require ('./components/Main');
 var Question = require('./components/Question');
+var Answer = require('./components/Answer');
+var Splash = require('./components/Splash');
+var QuestionListView = require('./components/QuestionListView');
+var NewsFeed= require('./components/NewsFeed');
 
 class Community extends Component {
   render() {
     return (
+
       <Navigator
         initialRoute= {{
-          id:'Login'
+          id:'Splash'
         }}
         renderScene={
           this.navigatorRenderScene
@@ -32,17 +37,23 @@ class Community extends Component {
       case'Register':
         return(<Register navigator={navigator} title = "Register" />);
 
-      case'Congrats':
-        return(<Congrats navigator ={navigator} title ="Congrats" />);
+      case'QuestionListView':
+        return(<QuestionListView navigator ={navigator} title ="QuestionListView" />);
+
+      case 'Splash':
+        return(<Splash navigator={navigator} title = "Splash" />);
 
       case'Login':
         return(<Login navigator ={navigator} title ="Login" />);
 
+      case'NewsFeed':
+        return(<NewsFeed navigator ={navigator} title="NewsFeed"/>);
+
       case 'Main':
         return(<Main navigator = {navigator} title ="Main" />);
 
-      case 'Profile':
-        return(<Profile navigator ={navigator} title ="Profile" />);
+      case 'Answer':
+        return(<Answer navigator ={navigator} title ="Answer" />);
 
       case 'Question':
         return(<Question navigator ={navigator} title ="Question" />);

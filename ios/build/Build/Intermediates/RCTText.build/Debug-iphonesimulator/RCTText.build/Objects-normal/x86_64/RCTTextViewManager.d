@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
+  /Users/Sansa/Community/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
+  /Users/Sansa/Community/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
   ../../React/Views/RCTViewManager.h ../../React/Base/RCTBridgeModule.h \
   ../../React/Base/RCTDefines.h ../../React/Base/RCTConvert.h \
   ../../React/CSSLayout/CSSLayout.h ../../React/CSSLayout/CSSMacros.h \
@@ -15,5 +15,5 @@ dependencies: \
   ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \
   ../../React/Views/UIView+React.h ../../React/Views/RCTComponent.h \
   ../../React/Views/RCTShadowView.h ../../React/Base/RCTRootView.h \
-  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/Sansa/Community/node_modules/react-native/Libraries/Text/RCTTextView.h \
   ../../React/Views/RCTView.h ../../React/Views/RCTFont.h

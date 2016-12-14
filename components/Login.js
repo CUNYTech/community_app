@@ -78,7 +78,7 @@ class Login extends Component {
       // Serialize and post the data
       console.log(data);
       const json = JSON.stringify(data);
-      fetch('http://35.160.57.103:8000/login', {
+      fetch('http://localhost:3000/login', {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
@@ -161,7 +161,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'transparent'
   },
   button: {
-    borderRadius: 4,
+    borderRadius: 10,
     fontSize:20,
     padding: 20,
     fontWeight:'bold',

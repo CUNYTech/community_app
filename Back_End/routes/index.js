@@ -19,6 +19,7 @@ router.get('/deleteQuestion', deleteQuestion);
 router.get('/viewQuestion', viewQuestion);
 router.put('/register', register);
 router.put('/login', login);
+router.get('/vote', vote);
 
 function addQuestion(req, res){
   if(!req.body){
@@ -114,6 +115,17 @@ function register(req, res){
   });
 }
 
+function vote(req, res) {
+  console.log('test');
+  //Take req body and update vote count
+  // find by username for now (will use _id later)
+  if(req.body.option === '1'){
+    Question.update({ _id: '58363b648eac0631dc2c12df'}, {$inc: {votesA : 1}} )
+  } else {
+    Question.update({ _id: '58363b648eac0631dc2c12df'}, {$inc: {votesB : 1}} )
+  }
+}
+
 function login(req, res){
   User.findOne({ "username" : req.body.username }, function(err, test){
     if(JSON.parse(JSON.stringify(test.password).replace(/"\s+|\s+"/g,'"')) != req.body.password){
@@ -125,7 +137,7 @@ function login(req, res){
     }
     else{
       res.json({
-        "SUCCESS" : test 
+        "SUCCESS" : test
       });
     }
   });

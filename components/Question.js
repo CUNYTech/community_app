@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { RadioButtons } from 'react-native-radio-buttons';
+import {RadioButtons} from 'react-native-radio-buttons';
 
 import {
   TouchableOpacity,
@@ -11,9 +11,10 @@ import {
   TouchableWithoutFeedback,
 } from 'react-native';
 
-const t = require('tcomb-form-native');
+//const register = require ('../Back_End/api/registerUser.js');
 const question = require ('../Images/questionmark.png');
 const background = require('../Images/blueback.png');
+const t = require('tcomb-form-native');
 
 const Form = t.form.Form
 
@@ -43,6 +44,7 @@ class Question extends Component {
         "question" : '',
         "OptionA" : '',
         "OptionB" : '',
+
       }
     }
   }
@@ -65,7 +67,8 @@ class Question extends Component {
       // Serialize and post the data
       console.log(data);
       const json = JSON.stringify(data);
-      fetch('http://35.160.57.103:8000/addQuestion', {
+      fetch('http://localhost:3000/addQuestion', {
+
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
@@ -78,6 +81,7 @@ class Question extends Component {
        alert('Question submitted!');
        // Redirect to login screen
        this.props.navigator.pop();
+
          id:'Main';
       })
       .catch((error) => {
@@ -120,17 +124,6 @@ render(){
       <Image source={background}>
       <View style={{margin: 20}}>
 
-     <Text>Categories</Text>
-      <RadioButtons
-          options={ options }
-          onSelection={ setSelectedOption.bind(this) }
-          selectedOption={this.state.selectedOption }
-          renderOption={ renderOption }
-          renderContainer={ renderContainer }
-     />
-
-      <Text>Selected option: {this.state.selectedOption || 'none'}</Text>
-
 
 
       </View>
@@ -141,13 +134,28 @@ render(){
           type={ques}
           value={this.state.value}
           />
+          <Text style={styles.text2}>Categories</Text>
+           <RadioButtons
+               options={ options }
+               onSelection={ setSelectedOption.bind(this) }
+               selectedOption={this.state.selectedOption }
+               renderOption={ renderOption }
+               renderContainer={ renderContainer }
+          />
 
-          <TouchableOpacity onPress={this._handleAdd}>
-            <Text style={[styles.button, styles.brownButton]}>Submit</Text>
-            </TouchableOpacity>
+           <Text>Selected option: {this.state.selectedOption || 'none'}</Text>
+
+          <View style={styles.buttonContainer}>
+            <View style={styles.buttonBox}>
+              <TouchableOpacity onPress={this._handleAdd}>
+                <Text style={styles.buttonText}> Submit  </Text>
+                </TouchableOpacity>
+              </View>
+            </View>
       </View>
       </Image>);
   }
+
 }
 
 const styles = StyleSheet.create({
@@ -174,12 +182,12 @@ const styles = StyleSheet.create({
   },
 
   buttonContainer: {
-    flex:1,
+    flexDirection:'row',
     justifyContent: 'center',
     alignItems: 'center',
     alignSelf:'stretch',
-    backgroundColor: 'burlywood',
-    padding: 10
+    padding: 10,
+    marginLeft: 30,
   },
 
 
@@ -196,36 +204,35 @@ const styles = StyleSheet.create({
   },
 
   text2: {
-    flex:1,
     textAlign:'left',
-    color: 'black',
-    fontSize:30,
+    color: '#cc8800',
+    fontSize:20,
   },
 
   formContainer:{
     flex:1,
+    marginLeft: 20,
+    marginRight:40,
   },
-  button: {
-    borderRadius: 4,
-    fontSize:20,
-    padding: 20,
+
+  buttonBox:{
+    marginTop: 20,
+    marginBottom: 10,
+    backgroundColor:'#cc8800',
+    width: 150,
+    height: 50,
+    borderRadius: 10,
+  //  marginRight:90,
+    paddingTop:10,
+    paddingBottom:10,
+  },
+
+  buttonText:{
+    textAlign:'center',
     fontWeight:'bold',
-    textAlign: 'center',
-    marginBottom: 20,
-    color: '#fff'
-  },
-  brownButton: {
-    backgroundColor: 'burlywood',
-  },
-  buttonText: {
-    textAlign: 'center',
     fontSize: 20,
-    fontWeight:'bold',
-    height: 10,
-    width:400,
-    padding: 25,
-    alignItems: 'center',
-    flex: 1,
+    color: '#ffcc66'
   },
+
 });
 module.exports = Question;
