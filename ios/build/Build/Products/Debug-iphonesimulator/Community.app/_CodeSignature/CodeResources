@@ -208,7 +208,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4wxkP1zbmICjvOfRrQH8lHQeyhI=
+		4yu3YNMmR4Y0zY8BZdRM+U+WKDU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -216,15 +216,15 @@
 		</data>
 		<key>PlugIns/CommunityTests.xctest/CommunityTests</key>
 		<data>
-		L5ajkDN7MyuYiSxsAtLTc9jvlEU=
+		hnGrsmmjfgbiONltH3IdoKkEaqE=
 		</data>
 		<key>PlugIns/CommunityTests.xctest/Info.plist</key>
 		<data>
-		e13ljPP2RCaBbYurUkT9CsdAK7Q=
+		g/PoIUDJLMBiLQpTjLjRYijFdW0=
 		</data>
 		<key>PlugIns/CommunityTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		/ftTvKiCOBSII70q9hzLZkFW3l4=
+		reF1Go/QnYue2S9m0d82QKWv9Tg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -770,33 +770,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L5ajkDN7MyuYiSxsAtLTc9jvlEU=
+			hnGrsmmjfgbiONltH3IdoKkEaqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			3OgNAGZOvHSvMSDCJ5yVSq3fRJVCNbnZR1ZQvamCbFQ=
+			N+KTy7Rmjhdn9zLDJ5GQkNm5e0cxsxMvfY1C7Ix4Iyc=
 			</data>
 		</dict>
 		<key>PlugIns/CommunityTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e13ljPP2RCaBbYurUkT9CsdAK7Q=
+			g/PoIUDJLMBiLQpTjLjRYijFdW0=
 			</data>
 			<key>hash2</key>
 			<data>
-			j2IYZJ3Dvw5B2n3Yq9H8X1h+/WIuIjjMeGKUPxDictE=
+			qMHD8j4SMMm6OepiXeJtsI3DMJ3rMIO+cXyQd6HhjTc=
 			</data>
 		</dict>
 		<key>PlugIns/CommunityTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/ftTvKiCOBSII70q9hzLZkFW3l4=
+			reF1Go/QnYue2S9m0d82QKWv9Tg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Veeygm9ualmYQWAWIOq4b/AXm3/BfF4N/+O5JgBtOig=
+			MLC+/pp0ImWHbYewdZx0dt7E3Cz/+SJdEc6dkIajCzo=
 			</data>
 		</dict>
 	</dict>
