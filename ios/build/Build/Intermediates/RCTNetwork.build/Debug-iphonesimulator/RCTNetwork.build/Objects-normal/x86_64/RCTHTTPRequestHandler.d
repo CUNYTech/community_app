@@ -1,13 +1,13 @@
 dependencies: \
-  /Users/Sansa/Community/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.mm \
-  /Users/Sansa/Community/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h \
+  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.mm \
+  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
   ../../React/Base/RCTURLRequestDelegate.h \
   ../../React/Base/RCTInvalidating.h \
-  /Users/Sansa/Community/node_modules/react-native/Libraries/Network/RCTNetworking.h \
+  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Network/RCTNetworking.h \
   ../../React/Modules/RCTEventEmitter.h ../../React/Base/RCTBridge.h \
   ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h \
   ../../React/Base/RCTFrameUpdate.h \
-  /Users/Sansa/Community/node_modules/react-native/Libraries/Network/RCTNetworkTask.h
+  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Network/RCTNetworkTask.h

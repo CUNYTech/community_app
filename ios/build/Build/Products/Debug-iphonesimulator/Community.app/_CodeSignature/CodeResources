@@ -8,7 +8,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bDaHWnIZ+kkzSniCExZEUxMi368=
+			O3srOy8L6502a//EC1LnNF12BYg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -208,7 +208,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4yu3YNMmR4Y0zY8BZdRM+U+WKDU=
+		RDTsY/qFjGqrbXRAvK0G86y8G+g=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -216,15 +216,15 @@
 		</data>
 		<key>PlugIns/CommunityTests.xctest/CommunityTests</key>
 		<data>
-		hnGrsmmjfgbiONltH3IdoKkEaqE=
+		UG3OcHeGgLOUmq5lFV1NiPo1Ax8=
 		</data>
 		<key>PlugIns/CommunityTests.xctest/Info.plist</key>
 		<data>
-		g/PoIUDJLMBiLQpTjLjRYijFdW0=
+		e13ljPP2RCaBbYurUkT9CsdAK7Q=
 		</data>
 		<key>PlugIns/CommunityTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		reF1Go/QnYue2S9m0d82QKWv9Tg=
+		/ftTvKiCOBSII70q9hzLZkFW3l4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bDaHWnIZ+kkzSniCExZEUxMi368=
+			O3srOy8L6502a//EC1LnNF12BYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			MpjZArwRUWAkFXClTKF8MziW623L0dyAwgcH4EpJ2zE=
+			6fNah480yC0QYfFhvJjJEmvYbjG7uTrVsUEqlgGYWtQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -770,33 +770,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hnGrsmmjfgbiONltH3IdoKkEaqE=
+			UG3OcHeGgLOUmq5lFV1NiPo1Ax8=
 			</data>
 			<key>hash2</key>
 			<data>
-			N+KTy7Rmjhdn9zLDJ5GQkNm5e0cxsxMvfY1C7Ix4Iyc=
+			RdJq38+o4Jh16Q1SlWsaMxqyJ2t5nbJ+eyEzQloiqBg=
 			</data>
 		</dict>
 		<key>PlugIns/CommunityTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g/PoIUDJLMBiLQpTjLjRYijFdW0=
+			e13ljPP2RCaBbYurUkT9CsdAK7Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			qMHD8j4SMMm6OepiXeJtsI3DMJ3rMIO+cXyQd6HhjTc=
+			j2IYZJ3Dvw5B2n3Yq9H8X1h+/WIuIjjMeGKUPxDictE=
 			</data>
 		</dict>
 		<key>PlugIns/CommunityTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			reF1Go/QnYue2S9m0d82QKWv9Tg=
+			/ftTvKiCOBSII70q9hzLZkFW3l4=
 			</data>
 			<key>hash2</key>
 			<data>
-			MLC+/pp0ImWHbYewdZx0dt7E3Cz/+SJdEc6dkIajCzo=
+			Veeygm9ualmYQWAWIOq4b/AXm3/BfF4N/+O5JgBtOig=
 			</data>
 		</dict>
 	</dict>

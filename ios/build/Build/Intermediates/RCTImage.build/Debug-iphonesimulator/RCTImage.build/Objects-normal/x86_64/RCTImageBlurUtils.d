@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/Sansa/Community/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.m \
-  /Users/Sansa/Community/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
+  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.m \
+  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
   ../../React/Base/RCTDefines.h

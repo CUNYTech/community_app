@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Sansa/Community/node_modules/react-native/Libraries/Network/RCTNetworkTask.m \
-  /Users/Sansa/Community/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
+  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Network/RCTNetworkTask.m \
+  /Users/joylam/Desktop/Community_test/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
   ../../React/Base/RCTURLRequestDelegate.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \

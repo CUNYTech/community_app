@@ -78,8 +78,8 @@ class Login extends Component {
       // Serialize and post the data
       console.log(data);
       const json = JSON.stringify(data);
-      fetch('http://localhost:3000/login', {
-        method: 'PUT',
+      fetch('http://localhost:8080/api/users/58bf424794b2d805f14aacb8', {
+        method: 'GET',
         headers: {
           'Content-Type': 'application/json',
           Accept: 'application/json'

@@ -1,5 +1,6 @@
-dependencies: /Users/Sansa/Community/ios/Community/AppDelegate.m \
-  /Users/Sansa/Community/ios/Community/AppDelegate.h \
+dependencies: \
+  /Users/joylam/Desktop/Community_test/ios/Community/AppDelegate.m \
+  /Users/joylam/Desktop/Community_test/ios/Community/AppDelegate.h \
   ../node_modules/react-native/React/Base/RCTBundleURLProvider.h \
   ../node_modules/react-native/React/Base/RCTRootView.h \
   ../node_modules/react-native/React/Base/RCTBridge.h \
