@@ -1,12 +1,5 @@
 notes.txt
 node_modules/
-app.js
 package.json
-models/
-routes/
-views/
 README.md
-bin/
 db/
-public/
-views/
